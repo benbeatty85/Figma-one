@@ -108,4 +108,16 @@ body {
     border-radius: 0.5rem;
     text-decoration: none;
     font-size: 0.9rem;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    transition: 300ms ease all;
+}
+
+.btn:hover {
+    background-color: #2180d8;
+}
+
+.btn:hover {
+    background-color: #2796ff;
 }
