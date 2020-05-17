@@ -14,10 +14,10 @@
 }
 
 .home-main-section .lady-image {
-    background-image: url(Images/landing-page-girl%201.png);
+    background-image: url(Images/guitar-icon-png-17601.png);
     flex-grow: 1;
-    max-height: 70vh;
-    min-width: 30vw;
+    max-height: 75vh;
+    min-width: 40vw;
     background-size: contain;
     background-repeat: no-repeat;
     background-position: bottom left;
@@ -35,7 +35,7 @@
     .home-main-section .img-wrapper {
         display: none;
     }
-    
+
     .home-main-section {
         justify-content: center;
     }
@@ -80,14 +80,5 @@
     height: 100%;
     width: 100%;
     border-radius: 50%;
-    background-color: rgba(52, 87, 178, 0.1);
+    background-color: rgba(255, 230, 109, 0.1);
 }
-
-
-
-
-
-
-
-
-
