@@ -31,7 +31,7 @@
     margin: 1rem;
 }
 
-@media (max-width: 900px) {
+@media only screen and (max-width: 900px) {
     .home-main-section .img-wrapper {
         display: none;
     }

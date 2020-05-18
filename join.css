@@ -55,7 +55,7 @@
     border-color: #FFE66D;
 }
 
-@media (max-width: 900px) {
+@media only screen and (max-width: 900px) {
     .join-main-section {
         flex-direction: column;
         justify-content: center;

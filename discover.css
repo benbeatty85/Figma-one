@@ -45,7 +45,7 @@
 }
 
 
-@media (max-width: 800px) {
+@media only screen and (max-width: 800px) {
     .discover-main-section {
         flex-direction: column;
         justify-content: center;
