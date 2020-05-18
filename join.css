@@ -59,12 +59,17 @@
     .join-main-section {
         flex-direction: column;
         justify-content: center;
+        align-items: inherit;
     }
 
     .join-form {
         width: 80vw;
         max-width: inherit;
         margin: 2rem 0;
+    }
+    
+    .main-footer {
+        display: none;
     }
 }
 

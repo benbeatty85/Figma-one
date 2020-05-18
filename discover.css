@@ -64,4 +64,8 @@
         width: auto;
         height: 20vw;
     }
+
+    .main-footer {
+        display: none;
+    }
 }
